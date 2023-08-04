@@ -1,7 +1,7 @@
 {
   "name": "platzi-intro",
   "version": "0.1.0",
-  "homepage": "https://jusanchezj.github.io/TODO-LIST.git/build",
+  "homepage": "https://jusanchezj.github.io/todo.git/build",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
